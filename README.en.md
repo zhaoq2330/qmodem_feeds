@@ -26,16 +26,16 @@ make menuconfig
 ### Selecting Packages
 
 ```shell
-< > luci-app-qmodem.............................. LuCI support for QWRT Modem
-[ ] Add Lua Luci Homepage                                               
+<*> luci-app-qmodem.............................. LuCI support for QWRT Modem
+[*] Add Lua Luci Homepage                                               
 [ ] Add PCIe Modem SUPPORT                                             
-[ ] Using Tom customized Quectel CM                                     
+[*] Using Tom customized Quectel CM                                     
 [ ] Using QWRT quectel-CM-5G                                           
-[ ] Using Normal quectel-cm                                             
-< > luci-app-qmodem-hc..................................... hc-g80 SIM switch
-< > luci-app-qmodem-mwan........................ Luci QWRT modem MWAN support
-< > luci-app-qmodem-sms.......................... Luci QWRT modem SMS support
-< > luci-app-qmodem-ttl.......................... Luci QWRT modem TTL support
+[*] Using Normal quectel-cm                                             
+<*> luci-app-qmodem-hc..................................... hc-g80 SIM switch
+<*> luci-app-qmodem-mwan........................ Luci QWRT modem MWAN support
+<*> luci-app-qmodem-sms.......................... Luci QWRT modem SMS support
+<*> luci-app-qmodem-ttl.......................... Luci QWRT modem TTL support
 ```
 
 ### Package Descriptions
